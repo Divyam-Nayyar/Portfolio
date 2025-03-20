@@ -6,7 +6,7 @@ const projects = [
     title: "PDF Buddy (Chat-with-PDFs-using-LLMs)",
     description: "Developed an AI-powered PDF processing system using LLMs for automated document analysis and intelligent summarization.",
     tools: ["TensorFlow", "LLM APIs", "HuggingFace", "Streamlit"],
-    image: "./public/cwp.webp",
+    image: "cwp.webp",
     github: "https://github.com/Divyam-Nayyar/Chatting_with_Multiple_PDFs",
     demo: "https://pdf-buddy-v3.streamlit.app/"
   },
@@ -22,7 +22,7 @@ const projects = [
     title: "Pose Recognition Game",
     description: "Developed an AI-based pose detection game using MediaPipe & OpenCV for interactive fitness experiences.",
     tools: ["Python", "OpenCV", "MediaPipe", "Streamlit", "PyGame"],
-    image: "./public/pm.webp",
+    image: "pm.webp",
     github: "https://github.com/Divyam-Nayyar/Pose-Master",
     demo: "https://github.com/Divyam-Nayyar/Pose-Master"
   }
